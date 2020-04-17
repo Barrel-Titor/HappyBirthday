@@ -37,7 +37,7 @@ class PARTICLE {
 }
 
 const lineHeight = 7;
-let praticle_count = 3e3;
+let praticle_count = 4e3;
 
 function getRequestParam(t) {
     const i = t || window.location.search, e = {};
